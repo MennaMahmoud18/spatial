@@ -4,7 +4,7 @@
   font-family: "Roboto", serif; ;
 }
 header {
-background:url(images/nature.jpg),#413c3c;
+background:url('nature.jpg'),#413c3c;
 background-attachment: fixed;
 background-position: center top;
 background-size: cover;
